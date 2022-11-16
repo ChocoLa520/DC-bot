@@ -1,1 +1,1 @@
-worker: python dc.py
+worker: python3 dc.py
